@@ -6,7 +6,7 @@ Welcome to my Skripsie repository!
 There will be a few main sections, such as:
 - Machine Learning
 - Dataset scripts
-- Arduino
+- ESP32
 - Raspberry Pi
 
 Each section contains the relevant code that was used through-out the development of my skipsie.
